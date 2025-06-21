@@ -43,7 +43,7 @@ Instantly add, track, and complete tasks with a sleek, responsive interface — 
 # 1. Clone the repository
 git clone https://github.com/Sangee-24/ZeroDelay.git
 
-# 2. Create .env file in you backend Directory
+# 2. Create .env file in backend Directory
 # Create a .env file with the following 
 # DATABASE_URL=your_mongodb_uri
 # JWT_SECRET=your_jwt_secret
