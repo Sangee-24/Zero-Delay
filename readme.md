@@ -37,8 +37,10 @@ Instantly add, track, and complete tasks with a sleek, responsive interface — 
 | **Node.js**    | Server-side runtime              |
 | **Nodemailer** | Send task email notifications    |
 
+---
 
-# Installation
+## ⚙️ Installation
+
 ```bash
 # 1. Clone the repository
 git clone https://github.com/Sangee-24/ZeroDelay.git
