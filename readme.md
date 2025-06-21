@@ -33,7 +33,7 @@ Instantly add, track, and complete tasks with a sleek, responsive interface — 
 |----------------|----------------------------------|
 | **MongoDB**    | NoSQL database for storing data  |
 | **Express**    | Backend server and routing       |
-| **React**      | Frontend framework (SPA)         |
+| **React**      | Frontend framework               |
 | **Node.js**    | Server-side runtime              |
 | **Nodemailer** | Send task email notifications    |
 
