@@ -18,12 +18,12 @@ Instantly add, track, and complete tasks with a sleek, responsive interface — 
 
 ## ✨ Features
 
--👥 User Registration & Login – New users can sign up, and existing users can securely log in to manage their tasks.
--🔐 Secure Authentication – Passwords are encrypted and protected for user safety.
--📬 Task Email Alerts – Whenever a task is added, an email notification is sent to keep users updated.
--🔁 Forgot Password Support – If users forget their password, they receive a reset link via email to securely set a new one.
--✅ Task Status Tracking – Tasks are visually categorized as active or completed to help users stay organized.
--⚙️ MERN Stack Integration – Built with MongoDB, Express.js, React.js, and Node.js for a fast, full-stack experience.
+- 👥 User Registration & Login – New users can sign up, and existing users can securely log in to manage their tasks.
+- 🔐 Secure Authentication – Passwords are encrypted and protected for user safety.
+- 📬 Task Email Alerts – Whenever a task is added, an email notification is sent to keep users updated.
+- 🔁 Forgot Password Support – If users forget their password, they receive a reset link via email to securely set a new one.
+- ✅ Task Status Tracking – Tasks are visually categorized as active or completed to help users stay organized.
+- ⚙️ MERN Stack Integration – Built with MongoDB, Express.js, React.js, and Node.js for a fast, full-stack experience.
 
 ---
 
