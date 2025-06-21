@@ -43,34 +43,23 @@ Instantly add, track, and complete tasks with a sleek, responsive interface — 
 # 1. Clone the repository
 git clone https://github.com/Sangee-24/ZeroDelay.git
 
-# 2. Backend Setup
-```bash
-# 1. Clone the repository
-git clone https://github.com/Sangee-24/ZeroDelay.git
-
-# 2. Backend Setup
-cd backend
-# Create a .env file with the following (do not push this to GitHub)
+# 2. Create .env file in you backend Directory
+# Create a .env file with the following 
 # DATABASE_URL=your_mongodb_uri
 # JWT_SECRET=your_jwt_secret
 # GMAIL_USER=your_email
 # GMAIL_PASSWORD=password created inside 'App Password' section under google accounts setting
+
+# 3. Backend Setup
+cd ../backend
 npm install
 npm start
 
-# 3. Frontend Setup
+# 4. Frontend Setup
 cd ../frontend
 npm install
 npm start
-cd backend
-npm install
 
-npm start
-
-# 3. Frontend Setup
-cd ../frontend
-npm install
-npm start
 ```
 ---
 ## 👩‍💻 Author:Sangeerani T
